@@ -16,15 +16,3 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 
-## .env 
-
-
-FIREBASE_KEY=
-PROJECT_ID=
-AUTH_DOMAIN=
-DATA_BASE_URL=
-PROJECT_ID=
-STORAGE_BUCKET=c
-MESSAGING_SENDER_ID=
-APP_ID=1:
-MEASUREMENT_ID=

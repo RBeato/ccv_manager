@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-import 'auth_sign_in.dart';
-
 class AuthHome extends StatefulWidget {
   const AuthHome({Key? key}) : super(key: key);
 

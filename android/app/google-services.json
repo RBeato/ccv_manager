@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "554622460400",
+    "firebase_url": "https://ccv-manager-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "ccv-manager",
+    "storage_bucket": "ccv-manager.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554622460400:android:e2fd7bc3871099840b7d35",
+        "android_client_info": {
+          "package_name": "com.example.ccv_manager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554622460400-g7hr3o8m0mj62aikqbmcmgnmcevrr6f0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCPXGEsBbP5LTCVgr9sF4TySDG0D-8eLcE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554622460400-g7hr3o8m0mj62aikqbmcmgnmcevrr6f0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
